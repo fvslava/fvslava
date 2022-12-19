@@ -33,10 +33,3 @@ BEGIN
 END
 
 select namedb from @tabledbfordel
-
-
-
-
-
-
-
