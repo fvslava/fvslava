@@ -1,6 +1,4 @@
-I give my tsql and ps scripts for help anybody. Good luck!
-
-Dettach_attach_db - Скрипт для переноса баз между инстансами. Записывает всю информацию в xml, дэтачить и аттачит базы с помощью ps скриптов<br/>
+Dettach_attach_db - Скрипт для переноса баз между инстансами. Записывает всю информацию в xml, дэттачит и аттачит базы с помощью ps скриптов<br/>
 Work_with_list_DB_in_temp_table - Работы с множеством бд через временную таблицу<br/>
 Work_with_list_DB_in_xml_file - Работы с множеством бд через xml файл<br/>
 
